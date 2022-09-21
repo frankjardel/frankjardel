@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="width: 50%; height: 50%">
+  
 ![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/191416949-0ca7beee-82e6-4a28-831e-251a4b0d005a.jpg)
+  
 </div>
