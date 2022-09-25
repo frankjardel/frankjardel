@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124449-61f050fa-c699-43dc-b2a2-d5422b2a0427.jpg)
+
