@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
-![do-zero-ao-jo![jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg)
+![jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg)
 
