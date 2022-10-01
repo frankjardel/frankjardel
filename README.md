@@ -31,10 +31,13 @@ Here are some ideas to get you started:
 
 ![kubernetes](https://user-images.githubusercontent.com/14333871/192124620-58748fe1-3bd3-4810-8c2f-28bb6fa72d8a.jpg)
 
+go](https://user-images.githubusercontent.com/14333871/192124691-20c59893-3bb6-430e-a1cc-66fe9a22604c.jpg)
+
 ![blockchain-development](https://user-images.githubusercontent.com/14333871/192124640-dff4224c-1541-4f50-abd9-55ea19afe311.jpg)
 
 ![certified-blender-sculpt](https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg)
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
-![do-zero-ao-jogo](https://user-images.githubusercontent.com/14333871/192124691-20c59893-3bb6-430e-a1cc-66fe9a22604c.jpg)
+![do-zero-ao-jo![jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg)
+
