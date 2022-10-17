@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
 
+![jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg)
+
 ![jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg)
 
 ![Certificado Jardel Frank da Silva Torquato - Javascript](https://user-images.githubusercontent.com/14333871/192124593-19fccab3-facb-4274-820c-6d3106679f02.jpg)
@@ -44,7 +46,5 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![69621b5f-179d-462b-9e04-a9ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
-
-![jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg)
 
 
