@@ -47,4 +47,6 @@ Here are some ideas to get you started:
 
 ![69621b5f-179d-462b-9e04-a9ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
+![PHP: conceitos, lidando com dados, loops e mais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198165564-720bb72e-b164-4fff-befe-34a060853464.jpg)
+
 
