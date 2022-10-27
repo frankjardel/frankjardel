@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 
 ![69621b5f-179d-462b-9e04-a9ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
+![Avançando com PHP: Arrays, Strings, Função e Web -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198182309-5a401ee1-830a-4a18-ad42-87dbdd669ecd.jpg)
+
 
