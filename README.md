@@ -49,5 +49,7 @@ Here are some ideas to get you started:
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
-![69621b5f-179d-462b-9e04-a9ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+![69621b5f-179d-462b-9e04-a9![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198420747-5294dde7-525f-43a9-bd94-2f7972ac0555.jpg)
+ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+
 
