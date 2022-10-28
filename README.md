@@ -52,3 +52,6 @@ ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
+![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198424273-c0f9876d-61fb-492b-a0f3-96a207f7dcde.jpg)
+
+
