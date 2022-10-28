@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ![69621b5f-179d-462b-9e04-a9![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198420747-5294dde7-525f-43a9-bd94-2f7972ac0555.jpg)
 
-![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198424273-c0f9876d-61fb-492b-a0f3-96a207f7dcde.jpg)
-
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
@@ -53,5 +51,5 @@ Here are some ideas to get you started:
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
-
+ba62e02772--198910399](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
