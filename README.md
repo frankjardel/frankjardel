@@ -52,4 +52,8 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+![PHP Strings: manipulando textos com PHP - Jardel Frank - Curso - Alura](https://user-images.githubusercontent.com/14333871/198725321-7ce581c6-e1e1-4091-b693-102c1fe76787.jpg)
+
+
+
 
