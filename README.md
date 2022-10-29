@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
+![Orientação a Objetos com PHP: Classes, métodos e atributos - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198847453-105855ec-1afd-4eb0-b024-92261527b41c.jpg)
+
+
