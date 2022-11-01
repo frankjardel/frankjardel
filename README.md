@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
+![PHP IO: trabalhando com arquivos e streams - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199349261-f6dcbb24-754d-4ed0-9451-2897665c05fb.jpg)
 
 
 
