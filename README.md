@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 
 ![PHP IO: trabalhando com arquivos e streams - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199349261-f6dcbb24-754d-4ed0-9451-2897665c05fb.jpg)
 
+![PHP Exceptions: tratamento de erros - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199384033-4ab7a366-7ed5-43a8-af56-e96505fd1307.jpg)
+
+![Formação PHP - Jardel Frank da Silva Torquato](https://user-images.githubusercontent.com/14333871/199384080-d5c55824-d96d-4a57-89f3-4d2d802fb10f.jpg)
+
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
@@ -61,9 +65,6 @@ Here are some ideas to get you started:
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
-![PHP Exceptions: tratamento de erros - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199384033-4ab7a366-7ed5-43a8-af56-e96505fd1307.jpg)
-
-![Formação PHP - Jardel Frank da Silva Torquato](https://user-images.githubusercontent.com/14333871/199384080-d5c55824-d96d-4a57-89f3-4d2d802fb10f.jpg)
 
 
 
