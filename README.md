@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 
 
+![PHP Exceptions: tratamento de erros - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199384033-4ab7a366-7ed5-43a8-af56-e96505fd1307.jpg)
 
 
 
