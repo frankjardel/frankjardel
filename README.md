@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Avançando com PHP: Arrays, Strings, Função e Web -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198182309-5a401ee1-830a-4a18-ad42-87dbdd669ecd.jpg)
 
-![69621b5f-179d-462b-9e04-a9![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198420747-5294dde7-525f-43a9-bd94-2f7972ac0555.jpg)
+![PHP: manipulando coleções com Arrays - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/198420747-5294dde7-525f-43a9-bd94-2f7972ac0555.jpg)
 
 ![PHP Strings: manipulando textos com PHP - Jardel Frank - Curso - Alura](https://user-images.githubusercontent.com/14333871/198725321-7ce581c6-e1e1-4091-b693-102c1fe76787.jpg)
 
