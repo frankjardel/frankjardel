@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
 ![Formação PHP - Jardel Frank da Silva Torquato](https://user-images.githubusercontent.com/14333871/199384080-d5c55824-d96d-4a57-89f3-4d2d802fb10f.jpg)
 
+![PHP Composer: Dependências, Autoload e Publicação -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199650448-7a4e6e90-dd23-4820-b166-474b92121f15.jpg)
+
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
@@ -67,6 +69,6 @@ Here are some ideas to get you started:
 
 
 
-![PHP Composer: Dependências, Autoload e Publicação -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199650448-7a4e6e90-dd23-4820-b166-474b92121f15.jpg)
+
 
 
