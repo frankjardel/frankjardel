@@ -67,5 +67,6 @@ Here are some ideas to get you started:
 
 
 
+![PHP Composer: Dependências, Autoload e Publicação -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/199650448-7a4e6e90-dd23-4820-b166-474b92121f15.jpg)
 
 
