@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ![PHP e MySQL: Criando uma webapp -Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/200334664-65126e79-008b-4b4f-bd34-eceef106d16d.jpg)
 
 
+![PHP e PDO: trabalhando com bancos de dados - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/200334757-8ed0cb49-6378-4264-b401-9d0b0c05127e.jpg)
 
 
 
