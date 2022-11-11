@@ -78,3 +78,4 @@ Here are some ideas to get you started:
 
 
 
+![Laravel: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/201234348-7de084c6-2071-4aec-b11e-73308e9b82c7.jpg)
