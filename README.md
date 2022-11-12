@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
+![Laravel: transações, service container e autenticação - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/201481023-3cafef74-9b1d-448f-94a7-16feaec7c671.jpg)
+
 
 
 
