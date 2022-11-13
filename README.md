@@ -86,5 +86,6 @@ Here are some ideas to get you started:
 
 
 
+![Laravel: e-mails, eventos assíncronos, uploads e testes - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/201502379-25dcfbe9-21f8-4b92-9441-8e7477c37749.jpg)
 
 
