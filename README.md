@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 
 ![Laravel: e-mails, eventos assíncronos, uploads e testes - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/201502379-25dcfbe9-21f8-4b92-9441-8e7477c37749.jpg)
 
+[Laravel: construindo APIs - Jardel Frank da Silva Torquato - Curso - Alura.pdf](https://github.com/frankjardel/frankjardel/files/9998290/Laravel.construindo.APIs.-.Jardel.Frank.da.Silva.Torquato.-.Curso.-.Alura.pdf)
+
+[Avançando em PHP - Jardel Frank da Silva Torquato - Formação -.pdf](https://github.com/frankjardel/frankjardel/files/9998291/Avancando.em.PHP.-.Jardel.Frank.da.Silva.Torquato.-.Formacao.-.pdf)
+
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
@@ -84,13 +88,13 @@ Here are some ideas to get you started:
 
 
 
-[Laravel: construindo APIs - Jardel Frank da Silva Torquato - Curso - Alura.pdf](https://github.com/frankjardel/frankjardel/files/9998290/Laravel.construindo.APIs.-.Jardel.Frank.da.Silva.Torquato.-.Curso.-.Alura.pdf)
 
 
 
 
 
-[Avançando em PHP - Jardel Frank da Silva Torquato - Formação -.pdf](https://github.com/frankjardel/frankjardel/files/9998291/Avancando.em.PHP.-.Jardel.Frank.da.Silva.Torquato.-.Formacao.-.pdf)
+
+
 
 
 
