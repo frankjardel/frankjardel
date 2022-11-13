@@ -84,6 +84,13 @@ Here are some ideas to get you started:
 
 
 
+[Laravel: construindo APIs - Jardel Frank da Silva Torquato - Curso - Alura.pdf](https://github.com/frankjardel/frankjardel/files/9998290/Laravel.construindo.APIs.-.Jardel.Frank.da.Silva.Torquato.-.Curso.-.Alura.pdf)
+
+
+
+
+
+[Avançando em PHP - Jardel Frank da Silva Torquato - Formação -.pdf](https://github.com/frankjardel/frankjardel/files/9998291/Avancando.em.PHP.-.Jardel.Frank.da.Silva.Torquato.-.Formacao.-.pdf)
 
 
 
