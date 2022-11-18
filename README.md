@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 
 
 
+![Mocks em PHP: entenda os dublês de testes - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202729698-0a80538f-0029-4de0-bc83-3122c04beae9.jpg)
 
 
 
