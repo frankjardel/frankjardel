@@ -94,6 +94,7 @@ Here are some ideas to get you started:
 
 
 
+![Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg)
 
 
 
