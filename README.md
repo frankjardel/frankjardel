@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 
 ![Livro Laravel Banco de Dados](https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg)
 
+![Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg)
+
 ![kubernetes](https://user-images.githubusercontent.com/14333871/192124620-58748fe1-3bd3-4810-8c2f-28bb6fa72d8a.jpg)
 
 ![blockchain-development](https://user-images.githubusercontent.com/14333871/192124640-dff4224c-1541-4f50-abd9-55ea19afe311.jpg)
@@ -94,7 +96,7 @@ Here are some ideas to get you started:
 
 
 
-![Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg)
+
 
 
 
