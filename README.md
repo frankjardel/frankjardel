@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 
 ![Mocks em PHP: entenda os dublês de testes - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202729698-0a80538f-0029-4de0-bc83-3122c04beae9.jpg)
 
+![Testes de integração com PHP: testando o acesso à API e ao banco de dados - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/205447328-01d780fe-8cb4-46ee-99ea-eb8980f32d32.jpg)
+
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
@@ -98,7 +100,7 @@ Here are some ideas to get you started:
 
 
 
-![Testes de integração com PHP: testando o acesso à API e ao banco de dados - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/205447328-01d780fe-8cb4-46ee-99ea-eb8980f32d32.jpg)
+
 
 
 
