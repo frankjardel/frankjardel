@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 
 
 
+![Testes de integração com PHP: testando o acesso à API e ao banco de dados - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/205447328-01d780fe-8cb4-46ee-99ea-eb8980f32d32.jpg)
 
 
 
