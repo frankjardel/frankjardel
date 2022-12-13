@@ -67,8 +67,9 @@ Here are some ideas to get you started:
 
 ![Testes de integração com PHP: testando o acesso à API e ao banco de dados - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/205447328-01d780fe-8cb4-46ee-99ea-eb8980f32d32.jpg)
 
-
 ![SOLID com PHP: princípios da programação orientada a objetos - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/206298584-c7eb9962-94e5-4c0a-bc35-f01431f9e448.jpg)
+
+![Design Patterns em PHP: padrões comportamentais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/207342201-f370bcf9-17f4-4f32-a1e2-a676d0a7adb8.jpg)
 
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
@@ -102,7 +103,7 @@ Here are some ideas to get you started:
 
 
 
-![Design Patterns em PHP: padrões comportamentais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/207342201-f370bcf9-17f4-4f32-a1e2-a676d0a7adb8.jpg)
+
 
 
 
