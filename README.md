@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 
 
 
+![Design Patterns em PHP: padrões comportamentais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/207342201-f370bcf9-17f4-4f32-a1e2-a676d0a7adb8.jpg)
 
 
 
