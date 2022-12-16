@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 
 
 
+![Design Patterns em PHP: padrões estruturais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/207999429-5fa6f80d-0f79-458b-923d-d83604004739.jpg)
 
 
 
