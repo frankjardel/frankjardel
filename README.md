@@ -106,6 +106,7 @@ Here are some ideas to get you started:
 
 
 
+![Design Patterns em PHP: padrões criacionais - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/208220475-43b4356b-3563-4abe-a7f1-bec83e85cea2.jpg)
 
 
 
