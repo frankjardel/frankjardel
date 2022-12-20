@@ -114,6 +114,7 @@ Here are some ideas to get you started:
 
 
 
+![Arquitetura PHP - Jardel Frank da Silva Torquato - Formação -](https://user-images.githubusercontent.com/14333871/208562411-400f9dac-6d6b-443f-97fd-78859b970c05.jpg)
 
 
 
