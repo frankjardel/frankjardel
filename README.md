@@ -89,6 +89,12 @@ Here are some ideas to get you started:
 
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
+![JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg)
+
+![Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg)
+
+![Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -122,9 +128,7 @@ Here are some ideas to get you started:
 
 
 
-![JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg)
-![Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg)
-![Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg)
+
 
 
 
