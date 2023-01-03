@@ -122,6 +122,9 @@ Here are some ideas to get you started:
 
 
 
+![JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg)
+![Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg)
+![Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg)
 
 
 
