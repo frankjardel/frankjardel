@@ -130,6 +130,7 @@ Here are some ideas to get you started:
 
 
 
+![Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg)
 
 
 
