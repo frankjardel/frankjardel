@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 
 ![Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg)
 
+![Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -118,21 +120,6 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-![Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg)
-
-
 
 
 
