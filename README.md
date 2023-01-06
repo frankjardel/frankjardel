@@ -124,6 +124,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura](https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg)
 
 
 
