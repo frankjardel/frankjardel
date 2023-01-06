@@ -89,6 +89,8 @@ Here are some ideas to get you started:
 
 ![jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg)
 
+![Certificado Jardel Frank da Silva Torquato - Javascript](https://user-images.githubusercontent.com/14333871/192124593-19fccab3-facb-4274-820c-6d3106679f02.jpg)
+
 ![JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg)
 
 ![Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg)
@@ -97,6 +99,8 @@ Here are some ideas to get you started:
 
 ![Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura](https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg)
 
+![Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura](https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -104,8 +108,6 @@ Here are some ideas to get you started:
 ![jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg)
 
 ![jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg)
-
-![Certificado Jardel Frank da Silva Torquato - Javascript](https://user-images.githubusercontent.com/14333871/192124593-19fccab3-facb-4274-820c-6d3106679f02.jpg)
 
 ![Livro Laravel Banco de Dados](https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg)
 
@@ -124,7 +126,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura](https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg)
+
 
 
 
