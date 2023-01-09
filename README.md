@@ -128,6 +128,7 @@ Here are some ideas to get you started:
 
 
 
+![Curso JavaScript criando requisições - Alura](https://user-images.githubusercontent.com/14333871/211244468-1a7dd577-1d69-4d64-975d-1df7bddd4dd1.jpg)
 
 
 
