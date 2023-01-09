@@ -101,6 +101,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura](https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg)
 
+![Curso JavaScript criando requisições - Alura](https://user-images.githubusercontent.com/14333871/211244468-1a7dd577-1d69-4d64-975d-1df7bddd4dd1.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -128,7 +130,7 @@ Here are some ideas to get you started:
 
 
 
-![Curso JavaScript criando requisições - Alura](https://user-images.githubusercontent.com/14333871/211244468-1a7dd577-1d69-4d64-975d-1df7bddd4dd1.jpg)
+
 
 
 
