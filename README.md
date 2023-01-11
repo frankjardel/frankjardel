@@ -129,6 +129,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso JavaScript validando formulários - Alura](https://user-images.githubusercontent.com/14333871/211942068-ae214a93-6d78-4379-b70b-b4a56d0b1c60.jpg)
 
 
 
