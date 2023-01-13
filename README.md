@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 
 
 
+![JavaScript tipos, variáveis e funções - Alura](https://user-images.githubusercontent.com/14333871/212374507-7157e8ee-54a3-473f-ad2c-65b89c4fbed7.jpg)
 
 
 
