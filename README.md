@@ -132,6 +132,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel FraCurso Node js criando sua primeira biblioteca - Alura](https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg)
 
 
 
