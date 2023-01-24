@@ -109,6 +109,8 @@ Here are some ideas to get you started:
 
 ![Jardel FraCurso Node js criando sua primeira biblioteca - Alura](https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg)
 
+![Jardel Frank da Silva Torquato - Curso JavaScript programação orientada a objetos - Alura](https://user-images.githubusercontent.com/14333871/214368084-ea431d34-c63b-4605-a601-e10aa096abfa.png)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -137,7 +139,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso JavaScript programação orientada a objetos - Alura](https://user-images.githubusercontent.com/14333871/214368084-ea431d34-c63b-4605-a601-e10aa096abfa.png)
+
 
 
 
