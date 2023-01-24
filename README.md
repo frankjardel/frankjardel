@@ -137,6 +137,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso JavaScript programação orientada a objetos - Alura](https://user-images.githubusercontent.com/14333871/214368084-ea431d34-c63b-4605-a601-e10aa096abfa.png)
 
 
 
