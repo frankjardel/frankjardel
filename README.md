@@ -138,6 +138,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso React Native criando um app - Alura](https://user-images.githubusercontent.com/14333871/215495342-435308b1-3d2b-46e0-a411-8dbf4e4d7c54.jpg)
 
 
 
