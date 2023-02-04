@@ -141,6 +141,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso React Native utilizando e criando Hooks - Alura](https://user-images.githubusercontent.com/14333871/216737230-f14f7f62-e7a8-4f1c-a018-41b92f2e9df0.jpg)
 
 
 
