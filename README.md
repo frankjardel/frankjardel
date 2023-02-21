@@ -143,6 +143,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso React Native utilizando Web API - Alura](https://user-images.githubusercontent.com/14333871/220238558-f791fab8-c0c8-4e4c-a802-f5403e962973.jpg)
 
 
 
