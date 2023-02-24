@@ -117,6 +117,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso React Native utilizando Web API - Alura](https://user-images.githubusercontent.com/14333871/220238558-f791fab8-c0c8-4e4c-a802-f5403e962973.jpg)
 
+![Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura](https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -145,7 +147,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura](https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg)
+
 
 
 
