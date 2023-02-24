@@ -145,6 +145,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura](https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg)
 
 
 
