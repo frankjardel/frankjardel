@@ -147,6 +147,7 @@ Here are some ideas to get you started:
 
 
 
+![TypeScript parte 1 evoluindo seu JavaScript - Alura](https://user-images.githubusercontent.com/14333871/233655875-f00500c4-2b7a-453d-90f4-473c5d363d9a.jpg)
 
 
 
