@@ -151,6 +151,7 @@ Here are some ideas to get you started:
 
 
 
+![TypeScript parte 2 avançando na linguagem - Alura](https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg)
 
 
 
