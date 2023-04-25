@@ -152,6 +152,7 @@ Here are some ideas to get you started:
 
 
 
+![Typescript parte 3 mais técnicas e boas práticas - Alura](https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg)
 
 
 
