@@ -123,6 +123,8 @@ Here are some ideas to get you started:
 
 ![TypeScript parte 2 avançando na linguagem - Alura](https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg)
 
+![Typescript parte 3 mais técnicas e boas práticas - Alura](https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -152,7 +154,7 @@ Here are some ideas to get you started:
 
 
 
-![Typescript parte 3 mais técnicas e boas práticas - Alura](https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg)
+
 
 
 
