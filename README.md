@@ -125,6 +125,8 @@ Here are some ideas to get you started:
 
 ![Typescript parte 3 mais técnicas e boas práticas - Alura](https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg)
 
+![Curso React escrevendo com Typescript - Alura](https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg)
+
 ![jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg)
 
 ![jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg)
@@ -154,7 +156,7 @@ Here are some ideas to get you started:
 
 
 
-![Curso React escrevendo com Typescript - Alura](https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg)
+
 
 
 
