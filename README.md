@@ -154,6 +154,7 @@ Here are some ideas to get you started:
 
 
 
+![Curso React escrevendo com Typescript - Alura](https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg)
 
 
 
