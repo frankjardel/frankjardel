@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso JavaScript validando formulários - Alura](https://user-images.githubusercontent.com/14333871/211942068-ae214a93-6d78-4379-b70b-b4a56d0b1c60.jpg)
 
+![Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura](https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png)
+
 ![JavaScript tipos, variáveis e funções - Alura](https://user-images.githubusercontent.com/14333871/212374507-7157e8ee-54a3-473f-ad2c-65b89c4fbed7.jpg)
 
 ![Jardel FraCurso Node js criando sua primeira biblioteca - Alura](https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg)
@@ -158,7 +160,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura](https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png)
+
 
 
 
