@@ -158,6 +158,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura](https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png)
 
 
 
