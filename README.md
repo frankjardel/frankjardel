@@ -157,6 +157,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso JavaScript objetos - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/5bc70bdc-2488-4e98-99af-b81bad89f6c7)
 
 
 
