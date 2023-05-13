@@ -107,6 +107,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura](https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png)
 
+![Jardel Frank da Silva Torquato - Curso JavaScript objetos - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/5bc70bdc-2488-4e98-99af-b81bad89f6c7)
+
 ![JavaScript tipos, variáveis e funções - Alura](https://user-images.githubusercontent.com/14333871/212374507-7157e8ee-54a3-473f-ad2c-65b89c4fbed7.jpg)
 
 ![Jardel FraCurso Node js criando sua primeira biblioteca - Alura](https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg)
@@ -150,17 +152,6 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
-
-
-
-
-
-
-
-![Jardel Frank da Silva Torquato - Curso JavaScript objetos - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/5bc70bdc-2488-4e98-99af-b81bad89f6c7)
-
-
-
 
 
 
