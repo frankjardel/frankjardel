@@ -83,6 +83,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso PHP e Behavior Driven Development BDD com Behat - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/4e8c790a-773d-45f0-b60b-65ebdf6b3d77)
 
+![Jardel Frank da Silva Torquato - Curso Refatoração em PHP boas práticas no seu código - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d526acd8-1201-4355-bfbd-b8e2a36cd3b3)
+
 ![Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura](https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg)
 
 ![Symfony Framework: formulários, validação e sessão - Jardel Frank da Silva Torquato - Curso Symfony Framework formulários, validação e sessão - Alura](https://user-images.githubusercontent.com/14333871/209414591-5048aca5-2457-47e1-bda5-a8b2ea1f5c8f.jpg)
@@ -159,7 +161,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso Refatoração em PHP boas práticas no seu código - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d526acd8-1201-4355-bfbd-b8e2a36cd3b3)
+
 
 
 
