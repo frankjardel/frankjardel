@@ -159,6 +159,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso Refatoração em PHP boas práticas no seu código - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d526acd8-1201-4355-bfbd-b8e2a36cd3b3)
 
 
 
