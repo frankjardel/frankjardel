@@ -159,10 +159,12 @@ Here are some ideas to get you started:
 
 
 
+![PHP XDebug ferramenta de debug e profiling - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d9717a85-e521-4585-b945-3bca09ed0ee0)
 
 
 
 
+![Jardel Frank da Silva Torquato - Curso PHP na Web conhecendo o padrão MVC - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/b0ee6c22-e9de-441d-88f1-5404dbe3a39d)
 
 
 
