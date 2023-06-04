@@ -85,6 +85,10 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso Refatoração em PHP boas práticas no seu código - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d526acd8-1201-4355-bfbd-b8e2a36cd3b3)
 
+![PHP XDebug ferramenta de debug e profiling - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d9717a85-e521-4585-b945-3bca09ed0ee0)
+
+![Jardel Frank da Silva Torquato - Curso PHP na Web conhecendo o padrão MVC - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/b0ee6c22-e9de-441d-88f1-5404dbe3a39d)
+
 ![Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura](https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg)
 
 ![Symfony Framework: formulários, validação e sessão - Jardel Frank da Silva Torquato - Curso Symfony Framework formulários, validação e sessão - Alura](https://user-images.githubusercontent.com/14333871/209414591-5048aca5-2457-47e1-bda5-a8b2ea1f5c8f.jpg)
@@ -157,14 +161,6 @@ Here are some ideas to get you started:
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
 
-
-
-![PHP XDebug ferramenta de debug e profiling - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d9717a85-e521-4585-b945-3bca09ed0ee0)
-
-
-
-
-![Jardel Frank da Silva Torquato - Curso PHP na Web conhecendo o padrão MVC - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/b0ee6c22-e9de-441d-88f1-5404dbe3a39d)
 
 
 
