@@ -87,6 +87,8 @@ Here are some ideas to get you started:
 
 ![PHP XDebug ferramenta de debug e profiling - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/d9717a85-e521-4585-b945-3bca09ed0ee0)
 
+![Jardel Frank da Silva Torquato - Curso PHP na Web lidando com segurança e API - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/fa5d50a5-0f4f-4afd-8d58-ea7aa96e81c7)
+
 ![Jardel Frank da Silva Torquato - Curso PHP na Web conhecendo o padrão MVC - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/b0ee6c22-e9de-441d-88f1-5404dbe3a39d)
 
 ![Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura](https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg)
@@ -164,7 +166,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso PHP na Web lidando com segurança e API - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/fa5d50a5-0f4f-4afd-8d58-ea7aa96e81c7)
+
 
 
 
