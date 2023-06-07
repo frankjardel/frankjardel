@@ -164,6 +164,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso PHP na Web lidando com segurança e API - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/fa5d50a5-0f4f-4afd-8d58-ea7aa96e81c7)
 
 
 
