@@ -166,6 +166,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso PHP na Web aplicando boas práticas e PSRs - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/4700c884-4a52-4ffd-9629-e3b4f778c0a7)
 
 
 
