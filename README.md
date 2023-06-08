@@ -91,6 +91,8 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso PHP na Web conhecendo o padrão MVC - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/b0ee6c22-e9de-441d-88f1-5404dbe3a39d)
 
+![Jardel Frank da Silva Torquato - Curso PHP na Web aplicando boas práticas e PSRs - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/4700c884-4a52-4ffd-9629-e3b4f778c0a7)
+
 ![Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura](https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg)
 
 ![Symfony Framework: formulários, validação e sessão - Jardel Frank da Silva Torquato - Curso Symfony Framework formulários, validação e sessão - Alura](https://user-images.githubusercontent.com/14333871/209414591-5048aca5-2457-47e1-bda5-a8b2ea1f5c8f.jpg)
@@ -166,7 +168,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso PHP na Web aplicando boas práticas e PSRs - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/4700c884-4a52-4ffd-9629-e3b4f778c0a7)
+
 
 
 
