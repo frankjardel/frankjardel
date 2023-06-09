@@ -170,6 +170,7 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso PHP Programação Funcional - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/7bca39ae-d80c-45a1-bad9-17130149a599)
 
 
 
