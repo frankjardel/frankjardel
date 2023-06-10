@@ -95,6 +95,10 @@ Here are some ideas to get you started:
 
 ![Jardel Frank da Silva Torquato - Curso PHP Programação Funcional - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/7bca39ae-d80c-45a1-bad9-17130149a599)
 
+![Jardel Frank da Silva Torquato - Curso PHP dominando as Collections - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/db197c38-ca60-4707-a9b6-3aebef5c7a5c)
+
+![Jardel Frank da Silva Torquato - Curso Metaprogramação com PHP API de Reflection - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/e9c5da8a-6bd3-41f1-b736-c154bde8a785)
+
 ![Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura](https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg)
 
 ![Symfony Framework: formulários, validação e sessão - Jardel Frank da Silva Torquato - Curso Symfony Framework formulários, validação e sessão - Alura](https://user-images.githubusercontent.com/14333871/209414591-5048aca5-2457-47e1-bda5-a8b2ea1f5c8f.jpg)
@@ -169,11 +173,7 @@ Here are some ideas to get you started:
 
 
 
-![Jardel Frank da Silva Torquato - Curso PHP dominando as Collections - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/db197c38-ca60-4707-a9b6-3aebef5c7a5c)
 
-
-
-![Jardel Frank da Silva Torquato - Curso Metaprogramação com PHP API de Reflection - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/e9c5da8a-6bd3-41f1-b736-c154bde8a785)
 
 
 
