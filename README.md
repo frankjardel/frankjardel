@@ -169,9 +169,11 @@ Here are some ideas to get you started:
 
 
 
+![Jardel Frank da Silva Torquato - Curso PHP dominando as Collections - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/db197c38-ca60-4707-a9b6-3aebef5c7a5c)
 
 
 
+![Jardel Frank da Silva Torquato - Curso Metaprogramação com PHP API de Reflection - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/e9c5da8a-6bd3-41f1-b736-c154bde8a785)
 
 
 
