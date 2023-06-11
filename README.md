@@ -53,50 +53,32 @@ Here are some ideas to get you started:
 
 ## JavaScript
 
-<img src="https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg" alt="jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/192124593-19fccab3-facb-4274-820c-6d3106679f02.jpg" alt="Certificado Jardel Frank da Silva Torquato - Javascript" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg" alt="JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg" alt="Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/192124570-3324394c-214b-4a9d-bbe3-32883b8fef26.jpg" alt="jardel frank - Javascript  40 Horas  - Certificado - Curso em Vídeo - jardel-frank-Javascript-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/192124593-19fccab3-facb-4274-820c-6d3106679f02.jpg" alt="Certificado Jardel Frank da Silva Torquato - Javascript" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/210451098-f838f81b-2ba4-4177-8378-abda9e6287c2.jpg" alt="JavaScript para Web Crie páginas dinâmicas - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/210451100-f5e4edfd-038c-4aec-886c-91126fad6eb4.jpg" alt="Curso JavaScript validações e reconhecimento de voz - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" >
 
-<img src="https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg" alt="Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg" alt="Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg" alt="Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/211244468-1a7dd577-1d69-4d64-975d-1df7bddd4dd1.jpg" alt="Curso JavaScript criando requisições - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/210451103-3d03fbb3-f3a7-485f-973c-9bf350dbc714.jpg" alt="Curso JavaScript manipulando o DOM - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/210632155-ae65bfbc-4052-4526-8147-430ddf7a03db.jpg" alt="Curso JavaScript consumindo e tratando dados de uma API - Jardel Frank da Silva Torquato - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/210916787-814d34f6-9bdd-46a3-b1f2-d0a604f859d2.jpg" alt="Jardel Frank da Silva Torquato - Curso JavaScript métodos de array - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/211244468-1a7dd577-1d69-4d64-975d-1df7bddd4dd1.jpg" alt="Curso JavaScript criando requisições - Alura" width="24%" height="24%" >
 
 
-<img src="https://user-images.githubusercontent.com/14333871/211942068-ae214a93-6d78-4379-b70b-b4a56d0b1c60.jpg" alt="Jardel Frank da Silva Torquato - Curso JavaScript validando formulários - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png" alt="Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura" width="24%" height="24%" >
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/5bc70bdc-2488-4e98-99af-b81bad89f6c7" alt="Jardel Frank da Silva Torquato - Curso JavaScript objetos - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/212374507-7157e8ee-54a3-473f-ad2c-65b89c4fbed7.jpg" alt="JavaScript tipos, variáveis e funções - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/211942068-ae214a93-6d78-4379-b70b-b4a56d0b1c60.jpg" alt="Jardel Frank da Silva Torquato - Curso JavaScript validando formulários - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/236720099-c5aa75a5-c056-4500-bb21-35cc4fc76d6b.png" alt="Jardel Frank da Silva Torquato - Curso JavaScript Arrays - Alura" width="24%" height="24%" > <img src="https://github.com/frankjardel/frankjardel/assets/14333871/5bc70bdc-2488-4e98-99af-b81bad89f6c7" alt="Jardel Frank da Silva Torquato - Curso JavaScript objetos - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/212374507-7157e8ee-54a3-473f-ad2c-65b89c4fbed7.jpg" alt="JavaScript tipos, variáveis e funções - Alura" width="24%" height="24%" >
 
-<img src="https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg" alt="Curso Node js criando sua primeira biblioteca - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/214368084-ea431d34-c63b-4605-a601-e10aa096abfa.png" alt="Jardel Frank da Silva Torquato - Curso JavaScript programação orientada a objetos - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/213339724-546bcd2f-1d2b-4f0f-ac5b-356907da4365.jpg" alt="Curso Node js criando sua primeira biblioteca - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/214368084-ea431d34-c63b-4605-a601-e10aa096abfa.png" alt="Jardel Frank da Silva Torquato - Curso JavaScript programação orientada a objetos - Alura" width="24%" height="24%" >
 
 ## React
 
-<img src="https://user-images.githubusercontent.com/14333871/215495342-435308b1-3d2b-46e0-a411-8dbf4e4d7c54.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando um app - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/216737230-f14f7f62-e7a8-4f1c-a018-41b92f2e9df0.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando e criando Hooks - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/220238558-f791fab8-c0c8-4e4c-a802-f5403e962973.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando Web API - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/215495342-435308b1-3d2b-46e0-a411-8dbf4e4d7c54.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando um app - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/216737230-f14f7f62-e7a8-4f1c-a018-41b92f2e9df0.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando e criando Hooks - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/220238558-f791fab8-c0c8-4e4c-a802-f5403e962973.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando Web API - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura" width="24%" height="24%" >
 
 <img src="https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg" alt="Curso React escrevendo com Typescript - Alura" width="24%" height="24%" >
 
 ## TypeScript
 
-<img src="https://user-images.githubusercontent.com/14333871/233655875-f00500c4-2b7a-453d-90f4-473c5d363d9a.jpg" alt="TypeScript parte 1 evoluindo seu JavaScript - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg" alt="TypeScript parte 2 avançando na linguagem - Alura" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg" alt="Typescript parte 3 mais técnicas e boas práticas - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/233655875-f00500c4-2b7a-453d-90f4-473c5d363d9a.jpg" alt="TypeScript parte 1 evoluindo seu JavaScript - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg" alt="TypeScript parte 2 avançando na linguagem - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg" alt="Typescript parte 3 mais técnicas e boas práticas - Alura" width="24%" height="24%" >
 
 ## Python
 
-<img src="https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg" alt="jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg" alt="jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
-<img src="https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg" alt="jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg" alt="jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg" alt="jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg" alt="jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
 
 ## Banco de Dados
 
-<img src="https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg" alt="jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video" width="44%" height="44%" >
-<img src="https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg" alt="Livro Laravel Banco de Dados" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg" alt="jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video" width="44%" height="44%" > <img src="https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg" alt="Livro Laravel Banco de Dados" width="24%" height="24%" >
 
 ## DevOps
 
