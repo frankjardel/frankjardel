@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e9c5da8a-6bd3-41f1-b736-c154bde8a785" alt="Jardel Frank da Silva Torquato - Curso Metaprogramação com PHP API de Reflection - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/209208946-185f5bcf-dece-481f-9e5b-ddc0affc30f6.jpg" alt="Symfony Framework: criando uma aplicação com MVC - Jardel Frank da Silva Torquato - Curso Symfony Framework criando uma aplicação com MVC - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/209414591-5048aca5-2457-47e1-bda5-a8b2ea1f5c8f.jpg" alt="Symfony Framework: formulários, validação e sessão - Jardel Frank da Silva Torquato - Curso Symfony Framework formulários, validação e sessão - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/209493801-b5844bd0-d6e5-4b5e-830d-0243a8161e70.jpg" alt="Symfony Framework cache e segurança - Jardel Frank da Silva Torquato - Curso  - Alura" width="24%" height="24%" >
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/d778f9d0-9d97-44df-9bbf-2c5d1cf594c8" alt="Jardel Frank da Silva Torquato - Curso Swoole PHP servidor assíncrono e corrotinas com PHP - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/8fc7f91f-636f-4efc-8464-5afe6ef42271" alt="Jardel Frank da Silva Torquato - Curso Doctrine conhecendo um ORM PHP - Alura" width="24%" height="24%" > <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c6ade7dc-9a19-4f5f-82fb-43a1022d1d84" alt="Doctrine Migrations, relatórios e performance - Alura" width="24%" width="24%">
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/d778f9d0-9d97-44df-9bbf-2c5d1cf594c8" alt="Jardel Frank da Silva Torquato - Curso Swoole PHP servidor assíncrono e corrotinas com PHP - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/8fc7f91f-636f-4efc-8464-5afe6ef42271" alt="Jardel Frank da Silva Torquato - Curso Doctrine conhecendo um ORM PHP - Alura" width="24%" height="24%" > <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c6ade7dc-9a19-4f5f-82fb-43a1022d1d84" alt="Doctrine Migrations, relatórios e performance - Alura" width="24%" width="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e826a62e-a1a5-415d-ad78-3cc03b34a79c" alt="Jardel Frank da Silva Torquato - Curso Symfony Framework e-mail, processamento assíncrono, uploads e testes - Alura" width="24%" height="24%">
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/b1ddb26f-f5f8-4c53-b3f9-e7c280f3f9b6" alt="Jardel Frank da Silva Torquato - Curso Symfony Framework lidando com eventos, tradução, logs e deploy - Alura" width="24%" height="24%">
 
 
 ## JavaScript
@@ -74,6 +76,10 @@ Here are some ideas to get you started:
 ## TypeScript
 
 <img src="https://user-images.githubusercontent.com/14333871/233655875-f00500c4-2b7a-453d-90f4-473c5d363d9a.jpg" alt="TypeScript parte 1 evoluindo seu JavaScript - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg" alt="TypeScript parte 2 avançando na linguagem - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg" alt="Typescript parte 3 mais técnicas e boas práticas - Alura" width="24%" height="24%" >
+
+## Vue3
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%">
 
 ## Python
 
@@ -98,6 +104,7 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+
 
 
 
