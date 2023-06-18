@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## Vue3
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%">
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e7cb3dc4-0592-485b-9507-ef8c4a44ed31" alt="Jardel Frank da Silva Torquato - Curso Vue3 avançando no framework - Alura" width="24%" height="24%">
 
 ## Python
 
@@ -104,6 +104,9 @@ Here are some ideas to get you started:
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+
+
+
 
 
 
