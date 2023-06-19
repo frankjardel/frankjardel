@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/14333871/233655875-f00500c4-2b7a-453d-90f4-473c5d363d9a.jpg" alt="TypeScript parte 1 evoluindo seu JavaScript - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/233785485-1e0461df-3b90-4a8d-ba36-57c901c14710.jpg" alt="TypeScript parte 2 avançando na linguagem - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/234143245-07933f00-eee1-402c-8830-2567d61bd5a9.jpg" alt="Typescript parte 3 mais técnicas e boas práticas - Alura" width="24%" height="24%" >
 
-## Vue3
+## Vue3 + Typescript
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e7cb3dc4-0592-485b-9507-ef8c4a44ed31" alt="Jardel Frank da Silva Torquato - Curso Vue3 avançando no framework - Alura" width="24%" height="24%">
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e7cb3dc4-0592-485b-9507-ef8c4a44ed31" alt="Jardel Frank da Silva Torquato - Curso Vue3 avançando no framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/8fc409c8-201e-484b-a68f-9c85c440ec2e" alt="Jardel Frank da Silva Torquato - Curso Vue3 composition API e Vuex - Alura" width="24%" height="24%"/>
 
 ## Python
 
