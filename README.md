@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/14333871/215495342-435308b1-3d2b-46e0-a411-8dbf4e4d7c54.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando um app - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/216737230-f14f7f62-e7a8-4f1c-a018-41b92f2e9df0.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando e criando Hooks - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/220238558-f791fab8-c0c8-4e4c-a802-f5403e962973.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native utilizando Web API - Alura" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/221183399-24182f66-d8f4-46d0-b0fc-f601837f93fc.jpg" alt="Jardel Frank da Silva Torquato - Curso React Native criando testes para sua aplicação - Alura" width="24%" height="24%" >
 
-<img src="https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg" alt="Curso React escrevendo com Typescript - Alura" width="24%" height="24%" >
+<img src="https://user-images.githubusercontent.com/14333871/234939264-58016c92-42b7-40d8-aa2e-46fb9a10bd52.jpg" alt="Curso React escrevendo com Typescript - Alura" width="24%" height="24%" > <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c5e37015-63a3-4c57-9037-334290976070" alt="Jardel Frank da Silva Torquato - Curso React lidando com arquivos estáticos - Alura" width="24%" height="24%" >
 
 ## TypeScript
 
@@ -80,6 +80,11 @@ Here are some ideas to get you started:
 ## Vue3 + Typescript
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e7cb3dc4-0592-485b-9507-ef8c4a44ed31" alt="Jardel Frank da Silva Torquato - Curso Vue3 avançando no framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/8fc409c8-201e-484b-a68f-9c85c440ec2e" alt="Jardel Frank da Silva Torquato - Curso Vue3 composition API e Vuex - Alura" width="24%" height="24%"/>
+
+## SASS
+
+![Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e)
+
 
 ## Python
 
