@@ -81,6 +81,12 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/1b01fe52-e8e1-4b06-a591-b8b8700ac309" alt="Jardel Frank da Silva Torquato - Curso Vue3 explorando o framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/e7cb3dc4-0592-485b-9507-ef8c4a44ed31" alt="Jardel Frank da Silva Torquato - Curso Vue3 avançando no framework - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/8fc409c8-201e-484b-a68f-9c85c440ec2e" alt="Jardel Frank da Silva Torquato - Curso Vue3 composition API e Vuex - Alura" width="24%" height="24%"/>
 
+
+## C
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/f5dbd586-5220-417d-a539-3e66cd340fa3" alt="Jardel Frank da Silva Torquato - Curso C conhecendo a Linguagem das Linguagens - Alura" width="24%" height="24%" />
+
+
 ## SASS
 
 ![Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e)
