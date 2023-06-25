@@ -87,6 +87,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/f5dbd586-5220-417d-a539-3e66cd340fa3" alt="Jardel Frank da Silva Torquato - Curso C conhecendo a Linguagem das Linguagens - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/9b6f07e2-8af8-47d1-b2a7-8f05c1aa7d4c" alt="Jardel Frank da Silva Torquato - Curso C avançando na linguagem - Alura" width="24%" height="24%"/> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/388f6f8e-7a6d-42fd-b8c1-3c3a6c6e412f" alt="Jardel Frank da Silva Torquato - Curso C recursos avançados da linguagem - Alura" width="24%" height="24%" />
 
 
+## C++
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/a0730efe-d8fd-4a11-ae17-5fe801646766" alt="Jardel Frank da Silva Torquato - Curso C++ Conhecendo a linguagem e a STL - Alura" width="24%" height="24%" />
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/e671e620-8be8-4bfd-87ba-a9d3d38fdbdd" alt="Jardel Frank da Silva Torquato - Curso Avançando com C++ entenda melhor a linguagem - Alura" width="24%" height="24%" />
+
+
 ## SASS
 
 ![Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e)
