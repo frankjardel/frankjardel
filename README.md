@@ -90,8 +90,7 @@ Here are some ideas to get you started:
 ## C++
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/a0730efe-d8fd-4a11-ae17-5fe801646766" alt="Jardel Frank da Silva Torquato - Curso C++ Conhecendo a linguagem e a STL - Alura" width="24%" height="24%" />
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/e671e620-8be8-4bfd-87ba-a9d3d38fdbdd" alt="Jardel Frank da Silva Torquato - Curso Avançando com C++ entenda melhor a linguagem - Alura" width="24%" height="24%" />
-
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/e671e620-8be8-4bfd-87ba-a9d3d38fdbdd" alt="Jardel Frank da Silva Torquato - Curso Avançando com C++ entenda melhor a linguagem - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/22b5bcd8-bef7-4f0c-85bd-519d38733206" alt="Jardel Frank da Silva Torquato - Curso Orientação a Objetos com C++ Classes, métodos e atributos - Alura" width="24%" height="24%"/> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/b93dd0d2-d746-4c81-93a1-0e30cbbf28a9" alt="Jardel Frank da Silva Torquato - Curso Orientação a Objetos com C++ trabalhando com herança - Alura" width="24%" height="24%"/>
 
 ## SASS
 
