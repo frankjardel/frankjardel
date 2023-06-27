@@ -103,6 +103,11 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/14333871/195738865-4b17a6ae-606e-4335-a7d4-76450d726dd6.jpg" alt="jardel-frank-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/195929548-da145407-2c3a-4e36-b4ed-5f76763d688b.jpg" alt="jardel-frank-Python-3-8211-Mundo-2-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" > <img src="https://user-images.githubusercontent.com/14333871/196297749-5c24458c-c2ac-4754-93b9-67d5a1524654.jpg" alt="jardel-frank-Python-3-8211-Mundo-3-40-Horas-Certificado-Curso-em-Video" width="24%" height="24%" >
 
+
+## Rust
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/971d636f-3317-4782-a784-87c02b15878d" alt="Jardel Frank da Silva Torquato - Curso Rust a linguagem de programação performática e segura - Alura" width="49%" height="49%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/709b0dd3-ee88-47d9-bc53-ad231347e858" alt="Jardel Frank da Silva Torquato - Curso Rust aprenda mais sobre tipos - Alura" width="49%" height="49%" />
+
 ## Banco de Dados
 
 <img src="https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg" alt="jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video" width="44%" height="44%" > <img src="https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg" alt="Livro Laravel Banco de Dados" width="24%" height="24%" >
