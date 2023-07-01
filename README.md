@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!--
 ![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124449-61f050fa-c699-43dc-b2a2-d5422b2a0427.jpg)
@@ -99,7 +99,9 @@ Here are some ideas to get you started:
 
 
 ## Kotlin
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/dbce6e89-0095-43c1-9cc5-a280a0a7947c" alt="Jardel Frank da Silva Torquato - Curso Kotlin orientação a objetos - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/4a52bcd8-2b57-44a6-b583-2d5cb098b284" alt="Jardel Frank da Silva Torquato - Curso Kotlin herança, polimorfismo e Interface - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/27ab66fb-8daa-412c-93c2-02beb1c743c1" alt="Jardel Frank da Silva Torquato - Curso Kotlin recursos da linguagem com pacotes e composição - Alura" width="24%" height="24%" />
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/dbce6e89-0095-43c1-9cc5-a280a0a7947c" alt="Jardel Frank da Silva Torquato - Curso Kotlin orientação a objetos - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/4a52bcd8-2b57-44a6-b583-2d5cb098b284" alt="Jardel Frank da Silva Torquato - Curso Kotlin herança, polimorfismo e Interface - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/27ab66fb-8daa-412c-93c2-02beb1c743c1" alt="Jardel Frank da Silva Torquato - Curso Kotlin recursos da linguagem com pacotes e composição - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/42bc6597-8bb5-4e61-a77f-80f24b4c2d03" alt="Jardel Frank da Silva Torquato - Curso Kotlin desenvolva com coleções, arrays e listas - Alura" width="24%" height="24%" />
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/4855d9f9-d834-424e-8c9c-a18ced3f9019" alt="Jardel Frank da Silva Torquato - Curso Kotlin Collections Set e Map - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/98cd905c-ae32-45f3-b9a7-e5f383527af4" alt="Jardel Frank da Silva Torquato - Curso Kotlin lidando com exceptions e referências nulas - Alura" width="24%" height="24%" />
 
 
 ## Python
@@ -121,20 +123,20 @@ Here are some ideas to get you started:
 
 ## DevOps
 
-![Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura](https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg)
+<img src="https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg" alt="Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura" width="49.5%" height="49.5%" /> <img src="https://user-images.githubusercontent.com/14333871/192124620-58748fe1-3bd3-4810-8c2f-28bb6fa72d8a.jpg" alt="kubernetes" width="49.5%" height="49.5%" />
 
-![kubernetes](https://user-images.githubusercontent.com/14333871/192124620-58748fe1-3bd3-4810-8c2f-28bb6fa72d8a.jpg)
 
 ## Outros
 
 ![blockchain-development](https://user-images.githubusercontent.com/14333871/192124640-dff4224c-1541-4f50-abd9-55ea19afe311.jpg)
 
+<!--
 ![certified-blender-sculpt](https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg)
 
 ![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
 
 ![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
-
+-->
 
 
 
