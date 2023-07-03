@@ -99,9 +99,10 @@ Here are some ideas to get you started:
 
 
 ## Kotlin
+
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/dbce6e89-0095-43c1-9cc5-a280a0a7947c" alt="Jardel Frank da Silva Torquato - Curso Kotlin orientação a objetos - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/4a52bcd8-2b57-44a6-b583-2d5cb098b284" alt="Jardel Frank da Silva Torquato - Curso Kotlin herança, polimorfismo e Interface - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/27ab66fb-8daa-412c-93c2-02beb1c743c1" alt="Jardel Frank da Silva Torquato - Curso Kotlin recursos da linguagem com pacotes e composição - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/42bc6597-8bb5-4e61-a77f-80f24b4c2d03" alt="Jardel Frank da Silva Torquato - Curso Kotlin desenvolva com coleções, arrays e listas - Alura" width="24%" height="24%" />
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/4855d9f9-d834-424e-8c9c-a18ced3f9019" alt="Jardel Frank da Silva Torquato - Curso Kotlin Collections Set e Map - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/98cd905c-ae32-45f3-b9a7-e5f383527af4" alt="Jardel Frank da Silva Torquato - Curso Kotlin lidando com exceptions e referências nulas - Alura" width="24%" height="24%" />
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/4855d9f9-d834-424e-8c9c-a18ced3f9019" alt="Jardel Frank da Silva Torquato - Curso Kotlin Collections Set e Map - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/98cd905c-ae32-45f3-b9a7-e5f383527af4" alt="Jardel Frank da Silva Torquato - Curso Kotlin lidando com exceptions e referências nulas - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/194ebba8-6c39-4eab-a185-1110bfe92322" alt="Jardel Frank da Silva Torquato - Curso Android com Kotlin criando um app - Alura" width="24%" height="24%" />
 
 
 ## Python
