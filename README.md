@@ -95,7 +95,11 @@ Here are some ideas to get you started:
 
 ## PyTorch
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/a20b8ef9-f904-45e9-93f5-e60ee9b78d0d" alt="Jardel Frank da Silva Torquato - Curso Redes Neurais Deep Learning com PyTorch - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/5c5f3863-397f-4f18-8c1d-1da3ee58616a" alt="Jardel Frank da Silva Torquato - Curso Treinando uma Rede Neural Deep Learning com PyTorch - Alura" width="24%" height="24%" />
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/a20b8ef9-f904-45e9-93f5-e60ee9b78d0d" alt="Jardel Frank da Silva Torquato - Curso Redes Neurais Deep Learning com PyTorch - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/5c5f3863-397f-4f18-8c1d-1da3ee58616a" alt="Jardel Frank da Silva Torquato - Curso Treinando uma Rede Neural Deep Learning com PyTorch - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/3c79ac55-56b6-42a8-8a31-4756fd2a91f9" alt="Jardel Frank da Silva Torquato - Curso Redes Neurais Convolucionais Deep Learning com PyTorch - Alura" width="24%" height="24%" />
+
+## Flask
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/5f601405-fc10-4f36-b0ca-ecb0ce2aecfc" alt="Jardel Frank da Silva Torquato - Curso Flask crie uma webapp com Python - Alura" width="24%" height="24%" />
 
 ## C
 
