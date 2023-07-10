@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 
 ## Flask
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/5f601405-fc10-4f36-b0ca-ecb0ce2aecfc" alt="Jardel Frank da Silva Torquato - Curso Flask crie uma webapp com Python - Alura" width="24%" height="24%" />
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/5f601405-fc10-4f36-b0ca-ecb0ce2aecfc" alt="Jardel Frank da Silva Torquato - Curso Flask crie uma webapp com Python - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/97a9d55f-0447-4b56-920f-1a071540243a" alt="Jardel Frank da Silva Torquato - Curso Flask avançando no desenvolvimento web com Python - Alura" width="24%" height="24%" >
 
 ## C
 
