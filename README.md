@@ -136,9 +136,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/14333871/193376919-ce177cca-2290-47f1-bb32-2b4299608b22.jpg" alt="jardel-frank-MySQL-40-Horas-Certificado-Curso-em-Video" width="44%" height="44%" > <img src="https://user-images.githubusercontent.com/14333871/192124611-953b571b-7b7f-4a51-8635-05e2fbe5fde9.jpg" alt="Livro Laravel Banco de Dados" width="24%" height="24%" >
 
 
-## SASS
+## CSS / SASS
 
-![Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura](https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e)
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/bcde5cdf-6e77-4255-b36a-1f8d3cdccd29" alt="Jardel Frank da Silva Torquato - Curso HTML e CSS praticando HTML_CSS - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e" alt="Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura" width="24%" height="24%">
 
 
 ## DevOps
