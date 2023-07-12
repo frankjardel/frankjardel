@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 ## CSS / SASS
 
-<img src="https://github.com/frankjardel/frankjardel/assets/14333871/bcde5cdf-6e77-4255-b36a-1f8d3cdccd29" alt="Jardel Frank da Silva Torquato - Curso HTML e CSS praticando HTML_CSS - Alura" width="24%" height="24%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e" alt="Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura" width="24%" height="24%">
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/8427ae7f-3273-4662-a8b0-fab9a535bcd2" alt="Jardel Frank da Silva Torquato - Curso Vetores e Animação com SVG trabalhando com CSS e JavaScript - Alura" width="32.7%" height="32.7%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/bcde5cdf-6e77-4255-b36a-1f8d3cdccd29" alt="Jardel Frank da Silva Torquato - Curso HTML e CSS praticando HTML_CSS - Alura" width="32.7%" height="32.7%"> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/c9a26152-408c-465e-b067-9cd574d9a37e" alt="Jardel Frank da Silva Torquato - Curso SASS CSS sintaticamente espetacular - Alura" width="32.7%" height="32.7%">
 
 
 ## DevOps
