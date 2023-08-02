@@ -101,6 +101,11 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/5f601405-fc10-4f36-b0ca-ecb0ce2aecfc" alt="Jardel Frank da Silva Torquato - Curso Flask crie uma webapp com Python - Alura" width="24%" height="24%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/97a9d55f-0447-4b56-920f-1a071540243a" alt="Jardel Frank da Silva Torquato - Curso Flask avançando no desenvolvimento web com Python - Alura" width="24%" height="24%" >
 
+## Django
+
+<img src="https://github.com/frankjardel/frankjardel/assets/14333871/5d7e1dc2-df6d-44a1-8863-367fde17b2d4" alt="Jardel Frank da Silva Torquato - Curso API com Django 3 Django Rest Framework - Alura" width="24%" height="24%">
+
+
 ## C
 
 <img src="https://github.com/frankjardel/frankjardel/assets/14333871/f5dbd586-5220-417d-a539-3e66cd340fa3" alt="Jardel Frank da Silva Torquato - Curso C conhecendo a Linguagem das Linguagens - Alura" width="32%" height="32%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/9b6f07e2-8af8-47d1-b2a7-8f05c1aa7d4c" alt="Jardel Frank da Silva Torquato - Curso C avançando na linguagem - Alura" width="32%" height="32%"/> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/388f6f8e-7a6d-42fd-b8c1-3c3a6c6e412f" alt="Jardel Frank da Silva Torquato - Curso C recursos avançados da linguagem - Alura" width="32%" height="32%" />
