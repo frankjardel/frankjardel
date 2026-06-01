@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg"  width="23%" height="23%" alt="Curso Uniday Studio"> <img src="https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg"  width="23%" height="23%" alt="certified-blender-sculpt"> <img src="https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg"  width="23%" height="23%" alt="blender-marketing-animation-2d"> <img alt="Modelagem-com-Blender-28-para-impressao-3D" src="https://github.com/user-attachments/assets/ee7646b5-067c-4976-9344-d5525f5570ec" width="23%" height="23%" />
 
-<img width="23%![Uploading Curso Blender 2.8 modelagem poligonal - Alura.jpg…]()
-" height="23%" alt="Blender texturizando modelos com Hand Paint - Alura" src="https://github.com/user-attachments/assets/3ec4cc56-8f7a-44e4-ad58-b56d447f9350" />
+<img width="23%" height="23%" alt="Curso Blender 2 8 modelagem poligonal - Alura" src="https://github.com/user-attachments/assets/a178a917-54f8-40dc-8fa8-903e569f68d9" /> <img width="23%" height="23%" alt="Curso Blender modelagem poligonal Alura" src="https://github.com/user-attachments/assets/44df7464-fdf5-4e7b-b6a1-19480996c70e" /> <img width="3509" height="2484" alt="Curso Blender riggando e animando seu personagem - Alura" src="https://github.com/user-attachments/assets/52e2fa0c-44bd-41e2-8611-35669e0e7e32" /> <img width="23%" height="23%" alt="blender-para-arquitetura" src="https://github.com/user-attachments/assets/db61ef3e-e5eb-4cd1-bd19-aa01726605b0" />
+
+
 
 
 
