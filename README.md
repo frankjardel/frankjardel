@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<!--
-![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124449-61f050fa-c699-43dc-b2a2-d5422b2a0427.jpg)
 -->
 
 ## 3D
@@ -159,6 +155,9 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/14333871/202877770-990f5ce7-e9ec-4ac5-b7ef-56706e66fc08.jpg" alt="Docker: criando e gerenciando containers - Jardel Frank da Silva Torquato - Curso - Alura" width="32.5%" height="32.5%" /> <img src="https://github.com/frankjardel/frankjardel/assets/14333871/a5078013-2d10-41a0-afc7-82ae1a415e45" alt="Jardel Frank da Silva Torquato - Curso Kubernetes Pods, Services e ConfigMaps - Alura" width="32.5%" height="32.5%" /> <img src="https://user-images.githubusercontent.com/14333871/192124620-58748fe1-3bd3-4810-8c2f-28bb6fa72d8a.jpg" alt="kubernetes" width="32.5%" height="32.5%" />
 
+## Back to the Basics
+
+![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124449-61f050fa-c699-43dc-b2a2-d5422b2a0427.jpg)
 
 ## Outros
 
