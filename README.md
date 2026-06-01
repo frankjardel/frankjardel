@@ -21,6 +21,15 @@ Here are some ideas to get you started:
 ![jardel-frank-Algoritmo-40-Horas-Certificado-Curso-em-Video](https://user-images.githubusercontent.com/14333871/192124449-61f050fa-c699-43dc-b2a2-d5422b2a0427.jpg)
 -->
 
+## 3D
+
+![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+
+![certified-blender-sculpt](https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg)
+
+![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
+
+
 ## PHP
 
 <img src="https://user-images.githubusercontent.com/14333871/192124510-5f4a126d-16eb-4764-891f-4b12530bf55d.jpg"  width="23%" height="23%" alt="PHP-Basico-40-Horas-Certificado-Curso-em-Video"> <img src="https://user-images.githubusercontent.com/14333871/192124513-47d13b1a-1d29-42f8-b428-b002778fc6c1.jpg"  width="23%" height="23%" alt="PHP-POO-40-Horas-Certificado-Curso-em-Video"> <img src="https://user-images.githubusercontent.com/14333871/198165564-720bb72e-b164-4fff-befe-34a060853464.jpg" alt="PHP: conceitos, lidando com dados, loops e mais - Jardel Frank da Silva Torquato - Curso - Alura" width="25%" height="25%"> <img src="https://user-images.githubusercontent.com/14333871/198182309-5a401ee1-830a-4a18-ad42-87dbdd669ecd.jpg" alt="Avançando com PHP: Arrays, Strings, Função e Web -Jardel Frank da Silva Torquato - Curso - Alura" width="25%" height="25%">
@@ -154,24 +163,4 @@ Here are some ideas to get you started:
 ## Outros
 
 ![blockchain-development](https://user-images.githubusercontent.com/14333871/192124640-dff4224c-1541-4f50-abd9-55ea19afe311.jpg)
-
-<!--
-![certified-blender-sculpt](https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg)
-
-![blender-marketing-animation-2d](https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg)
-
-![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
--->
-
-
-
-
-
-
-
-
-
-
-
-
 
