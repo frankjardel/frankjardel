@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 3D
 
-<img src="https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg"  width="23%" height="23%" alt="Curso Uniday Studio">
+<img src="https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg"  width="23%" height="23%" alt="Curso Uniday Studio"> <img src="https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg"  width="23%" height="23%" alt="certified-blender-sculpt"> <img src="https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg"  width="23%" height="23%" alt="blender-marketing-animation-2d">
 
 
 ## PHP
