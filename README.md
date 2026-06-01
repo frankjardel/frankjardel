@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 ## 3D
 
-<img src="https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg"  width="23%" height="23%" alt="Curso Uniday Studio"> <img src="https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg"  width="23%" height="23%" alt="certified-blender-sculpt"> <img src="https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg"  width="23%" height="23%" alt="blender-marketing-animation-2d"> <img width="1600" height="1190" alt="Modelagem-com-Blender-28-para-impressao-3D" src="https://github.com/user-attachments/assets/ee7646b5-067c-4976-9344-d5525f5570ec" width="23%" height="23%" />
+<img src="https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg"  width="23%" height="23%" alt="Curso Uniday Studio"> <img src="https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg"  width="23%" height="23%" alt="certified-blender-sculpt"> <img src="https://user-images.githubusercontent.com/14333871/192124688-a6833618-737d-4a5e-bc6a-43846aefc063.jpg"  width="23%" height="23%" alt="blender-marketing-animation-2d"> <img alt="Modelagem-com-Blender-28-para-impressao-3D" src="https://github.com/user-attachments/assets/ee7646b5-067c-4976-9344-d5525f5570ec" width="23%" height="23%" />
+
+<img width="23%![Uploading Curso Blender 2.8 modelagem poligonal - Alura.jpg…]()
+" height="23%" alt="Blender texturizando modelos com Hand Paint - Alura" src="https://github.com/user-attachments/assets/3ec4cc56-8f7a-44e4-ad58-b56d447f9350" />
+
+
 
 
 ## PHP
