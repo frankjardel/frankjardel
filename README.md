@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <img width="24%" height="24%" alt="Curso Blender 2 8 modelagem poligonal - Alura" src="https://github.com/user-attachments/assets/a178a917-54f8-40dc-8fa8-903e569f68d9" /> <img width="24%" height="24%" alt="Curso Blender modelagem poligonal Alura" src="https://github.com/user-attachments/assets/44df7464-fdf5-4e7b-b6a1-19480996c70e" /> <img width="24%" height="24%" alt="Curso Blender riggando e animando seu personagem - Alura" src="https://github.com/user-attachments/assets/52e2fa0c-44bd-41e2-8611-35669e0e7e32" /> <img width="24%" height="24%" alt="blender-para-arquitetura" src="https://github.com/user-attachments/assets/db61ef3e-e5eb-4cd1-bd19-aa01726605b0" />
 
+
 <img width="24%" height="24%" alt="blender-para-arquitetura" src="https://github.com/user-attachments/assets/c6098baf-84c7-48d6-a510-d8c5f61a9eba" />
 
 
