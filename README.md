@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ## 3D
 
-![Uniday-Studio](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)
+<img src="[https://user-images.githubusercontent.com/14333871/192124510-5f4a126d-16eb-4764-891f-4b12530bf55d.jpg](https://user-images.githubusercontent.com/14333871/193377173-c0cef63f-fe75-4d48-aa63-85c97155fe7b.jpg)"  width="23%" height="23%" alt="Uniday Studio Curso">
+
 
 ![certified-blender-sculpt](https://user-images.githubusercontent.com/14333871/192124663-757a88c2-47b8-4d0a-8ed6-21ce79916628.jpg)
 
